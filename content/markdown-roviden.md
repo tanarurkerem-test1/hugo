@@ -4,7 +4,7 @@ menu: "main"
 draft: false
 ---
 
-# Ez egy cím
+# Ez egy főcím
 
 [Link a főoldalra.](/)
 
